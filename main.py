@@ -7,8 +7,8 @@ from ta.volatility import AverageTrueRange
 import telegram
 
 # === CONFIGURATION ===
-bot_token = 'YOUR_BOT_TOKEN'
-chat_id = 'YOUR_CHAT_ID'
+bot_token = '7963033521:AAHSq4KWwS3Yg9ppA0AtwNUvNpYlrVGHYak'
+chat_id = '8132192522'
 bot = telegram.Bot(token=bot_token)
 
 balance = 500.0
